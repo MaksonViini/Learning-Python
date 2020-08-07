@@ -1,14 +1,12 @@
-terminou = False
-p = i = 0
-while (not terminou):
-    n = int(input("Digite um número, ou zero para terminar: "))
-    if n == 0:
-        terminou = True
-    else:
-        if n % 2 == 0:
-            p = p + 1
-        else:
-            i = i + 1
-
-print ("P = ", p)
-print ("I = ", i)
+# Maior e Menor valores
+n = soma = i = 0
+lista = []
+op = 's'
+while op in 'Ss':
+    n = int(input("Digite um numero: "))
+    soma += n
+    lista.append(n)
+    i += 1 
+    op = str(input("Quer continuar? [S/N] "))
+print(f"Voce digitou {i} numeros e a media foi {soma / i} ")
+print(f"O maior valor digitado foi {max(lista)} e o menor foi {min(lista)} ")
