@@ -9,7 +9,7 @@ def notas (*notas, sit = False):
             dic['Situacao'] = 'Razoavel'
         else:
             dic['Situacao'] = 'Boa'
-    if sit == False:
+    else:
         return dic
     return dic
 print(notas(8, 8, 6, False))
