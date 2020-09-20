@@ -26,16 +26,16 @@
     4. Regressão logística.
     ***
     #### Linkedin dos participantes 
-    * [Meu Linkedin] (https://www.linkedin.com/in/maksonvinicio/)
-    * [Maria Paula]  (https://www.linkedin.com/in/mpdiasrosa/)
+    * [Meu Linkedin](https://www.linkedin.com/in/maksonvinicio/)
+    * [Maria Paula](https://www.linkedin.com/in/mpdiasrosa/)
     * [Julia Bartolo](https://www.linkedin.com/in/juliabartolo/)
     * [Rogerio Silva](https://www.linkedin.com/in/rogerio-silva-sampaio-037a7216/)
-    * [Danilo M.] (OFF)
+    * [Danilo M.](OFF)
     #### GitHub dos participantes
-    * [Meu GitHub] (https://github.com/MaksonViini)
-    * [Maria Paula]  (https://github.com/mpdiasrosa)
+    * [Meu GitHub](https://github.com/MaksonViini)
+    * [Maria Paula](https://github.com/mpdiasrosa)
     * [Julia Bartolo](OFF)
     * [Rogerio Silva](https://github.com/rssampaio)
-    * [Danilo M.] (OFF)
+    * [Danilo M.](OFF)
     ****
     Nestes projetos fiquei responsavel pela *Data Visualization* e das análises de insights.
