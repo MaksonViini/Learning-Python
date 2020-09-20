@@ -1,16 +1,18 @@
 # **Bootcamp Neuron**
 ### *Desafios*
 ***
-* Tips
+* Tips :briefcase:
+
     O objetivo dessa apresentação foi a de analisar o conteúdo de um dataset, criar reflexões a partir dos conhecimentos práticos obtidos durante a semana que ocorreu o bootcamp     da Neuron e por fim, analisar quais as condições mais influenciam um cliente a dar mais gorjetas para o garçom/ou garçonete a partir dos dados do dataset A Waiter’s Tips!
     
-    Por meio dos seguintes insights: :briefcase:
+    Por meio dos seguintes insights:
     1.  Análise Descritiva das Variáveis.
     2.  Análise de relação entre variáveis.
     3.  Visualização das análises.
     4.  Regressão linear simples e múltipla.
     ***
 * Clima Szeged - Hungria :briefcase:
+
     O objetivo principal era criar um modelo de regressão linear múltipla de forma a minimizar o “Erro Quadrático Médio” no conjunto de teste.
     
     Por meio dos seguintes insights: 
@@ -20,6 +22,7 @@
     4. Regressão linear simples e múltipla.
     ***
 * Heart Attack/ Ataque no coração :briefcase:
+
     O objetivo principal era criar um modelo de regressão logística para classificação de forma a maximizar o “Score F1” no conjunto de teste.
     
     Por meio dos seguintes insights:
