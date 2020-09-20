@@ -3,6 +3,7 @@
 ***
 * Tips
     O objetivo dessa apresentação foi a de analisar o conteúdo de um dataset, criar reflexões a partir dos conhecimentos práticos obtidos durante a semana que ocorreu o bootcamp     da Neuron e por fim, analisar quais as condições mais influenciam um cliente a dar mais gorjetas para o garçom/ou garçonete a partir dos dados do dataset A Waiter’s Tips!
+    
     Por meio dos seguintes insights: 
     1.  Análise Descritiva das Variáveis.
     2.  Análise de relação entre variáveis.
@@ -11,6 +12,7 @@
     ***
 * Clima Szeged - Hungria
     O objetivo principal era criar um modelo de regressão linear múltipla de forma a minimizar o “Erro Quadrático Médio” no conjunto de teste.
+    
     Por meio dos seguintes insights: 
     1. Análise Descritiva das Variáveis.
     2. Análise de relação entre variáveis.
@@ -19,6 +21,7 @@
     ***
 * Heart Attack/ Ataque no coração
     O objetivo principal era criar um modelo de regressão logística para classificação de forma a maximizar o “Score F1” no conjunto de teste.
+    
     Por meio dos seguintes insights:
     1. Análise Descritiva das Variáveis.
     2. Análise de relação entre variáveis.
@@ -38,4 +41,4 @@
     * [Rogerio Silva](https://github.com/rssampaio)
     * [Danilo M.](OFF)
     ****
-    Nestes projetos fiquei responsavel pela *Data Visualization* e das análises de insights.
+    Nestes projetos fiquei responsável pela *Data Visualization* e das análises de insights.
