@@ -44,4 +44,4 @@
     * [Rogerio Silva](https://github.com/rssampaio)
     * [Danilo M.](OFF)
     ****
-    Nestes projetos fiquei responsável pela *Data Visualization* e das análises de insights. :nerd_face:
+    Nestes projetos fiquei responsável pela *Data Visualization* e das análises de *insights*. :nerd_face:
