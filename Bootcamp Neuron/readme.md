@@ -36,12 +36,12 @@
     * [Maria Paula](https://www.linkedin.com/in/mpdiasrosa/)
     * [Julia Bartolo](https://www.linkedin.com/in/juliabartolo/)
     * [Rogerio Silva](https://www.linkedin.com/in/rogerio-silva-sampaio-037a7216/)
-    * [Danilo M.](OFF)
+    * [Danilo M.](https://www.linkedin.com/in/danilo-mota-a48923151/)
     #### GitHub dos participantes :muscle:
     * [Meu GitHub](https://github.com/MaksonViini)
     * [Maria Paula](https://github.com/mpdiasrosa)
     * [Julia Bartolo](OFF)
     * [Rogerio Silva](https://github.com/rssampaio)
-    * [Danilo M.](OFF)
+    * [Danilo M.](https://github.com/danilomotaa)
     ****
     Nestes projetos fiquei responsável pela *Data Visualization* e das análises de *insights*. :nerd_face:
