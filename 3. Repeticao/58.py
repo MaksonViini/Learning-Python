@@ -12,8 +12,7 @@ while True:
     else:
         if n > num:
             print("Mais... Tente outra vez!")
-            num = int(input("Qual seu palpite? "))
         else:
             print("Menos... Tente outra vez!")
-            num = int(input("Qual seu palpite? "))
+        num = int(input("Qual seu palpite? "))
 print(f"Voce acertou com {tentativas} tentativas, Parabens!!!")
