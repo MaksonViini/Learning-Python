@@ -7,7 +7,7 @@ fibonacci = 0
 f = 1
 while n != 0:
     print(f"{fibonacci} -> ", end= " ")
-    fibonacci = fibonacci + f
+    fibonacci += f
     f = fibonacci - f
     n -= 1
 print("Acabou")
