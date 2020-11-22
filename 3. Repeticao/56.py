@@ -11,10 +11,9 @@ for i in range(1, 3):
     idade = int(input("Idade: "))
     sexo = str(input("Sexo [M/F]: "))
     media += idade
-    if sexo in 'Mm': 
-        if mais_velho < idade:
-            mais_velho = idade
-            name = nome
+    if sexo in 'Mm' and mais_velho < idade:
+        mais_velho = idade
+        name = nome
     if sexo in 'Ff':
         cont_M += 1
 print(f"A media de idade e {media / c} anos")
