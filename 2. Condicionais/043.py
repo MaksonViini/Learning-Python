@@ -5,13 +5,13 @@ imc = peso / altura ** 2
 if imc < 18.5:
     print(f"O seu IMC e de {imc:.1f} ")
     print("ABAIXO DO PESO")
-elif imc >= 18.5 and imc < 25:
+elif imc < 25:
     print(f"O seu IMC e de {imc:.1f} ")
     print("PESO IDEAL")
-elif imc >= 25 and imc < 30:
+elif imc < 30:
     print(f"O seu IMC e de {imc:.1f} ")
     print("SOBREPESO")
-elif imc >= 30 and imc < 40:
+elif imc < 40:
     print(f"O seu IMC e de {imc:.1f} ")
     print("OBESIDADE")
 elif imc > 40:
