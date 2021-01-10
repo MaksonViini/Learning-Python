@@ -5,7 +5,7 @@ Algoritmos de busca
 '''
 
 class Search:    
-    def binary_tree(self, lista, element):
+    def binary_seach(self, lista, element):
         left, right = 0, len(lista) - 1
         while left <= right: 
             middle = (left + right) // 2
@@ -26,6 +26,6 @@ class Search:
 
 t = Search()
 
-print(t.binary_tree([1, 2, 3, 4, 5, 6], 4))
+print(t.binary_seach([1, 2, 3, 4, 5, 6], 4))
 
 print(t.sequential([1, 2, 3, 4, 5, 6], 4))
