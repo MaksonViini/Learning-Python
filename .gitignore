@@ -3,4 +3,6 @@
 10. POO/.vscode/launch.json
 *.pyc
 *.json
-.vscode
+*.vscode
+.vscode/launch.json
+
