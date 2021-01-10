@@ -1,7 +1,7 @@
 '''
 Author: Makson Vinicio
 
-stack
+Stack
 '''
 
 class Stack:
@@ -23,15 +23,31 @@ class Stack:
     def size(self):
         return len(self.items)
 
+    def max_element(self):
+        try:
+            return max(self.items)
+        except (TypeError):
+            print('Por favor a pilha deve conter somente numeros! ') 
+    
+    def min_element(self):
+        i = 0
+        try:
+            return min(self.items)
+        except (TypeError):
+            print('Por favor a pilha deve conter somente numeros! ') 
+      
+
+stack = Stack()
+#stack.push('hello')
+#stack.push('true')
+stack.push(4)
+stack.push(7)
+
+print(stack.min_element())
 
 
-s = Stack()
-s.push('hello')
-s.push('true')
-s.push(4)
-s.push(7)
-#print(s.pop())
-#print(s.peek())
-#print(s.size())
-while not s.is_empty():
-    print(s.pop)
+print(stack.max_element())
+
+print('-=-' * 10)
+while stack.is_empty() != True:
+    print(stack.pop())
