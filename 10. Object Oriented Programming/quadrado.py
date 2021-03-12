@@ -6,6 +6,7 @@ Métodos: Mudar valor do Lado, Retornar valor do Lado e calcular Área;
 
 '''
 
+
 class Quadrado:
     def __init__(self, base, altura):
         self.base = base
@@ -20,8 +21,8 @@ class Quadrado:
 
     def calcula_area(self):
         return self.base * self.altura
-    
+
+
 quad = Quadrado(10, 5)
 
 print(quad.calcula_area())
-        

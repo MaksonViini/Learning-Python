@@ -18,9 +18,9 @@ class Bola:
     def mostra_cor(self):
         print(f'A cor da bola e {self.cor}')
 
+
 ball = Bola('Azul', 3.5, 'Couro')
 
 ball.troca_cor('Verde')
 
 ball.mostra_cor()
-    

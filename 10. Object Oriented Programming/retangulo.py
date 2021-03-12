@@ -13,3 +13,26 @@ class Retangulo:
     def __init__(self, lado_A, lado_B):
         self.lado_A = lado_A
         self.lado_B = lado_B
+
+    def muda_valor(self, new_lado_A, new_lado_B):
+        self.lado_A = new_lado_A
+        self.lado_B = new_lado_B
+
+    def retorna_valor(self):
+        return self.lado_A, self.lado_B
+
+    def area(self):
+        return self.lado_A * self.lado_B
+
+    def perimetro(self):
+        return self.lado_A + self.lado_B
+
+
+a = float(input("Entre com um numeros: "))
+b = float(input("Entre com um numeros: "))
+
+retangulo = Retangulo(a, b)
+
+print(retangulo.retorna_valor())
+print(retangulo.area())
+print(retangulo.perimetro())
