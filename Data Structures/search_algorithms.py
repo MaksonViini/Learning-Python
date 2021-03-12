@@ -4,10 +4,11 @@ Author: Makson Vinicio
 Algoritmos de busca
 '''
 
-class Search:    
+
+class Search:
     def binary_seach(self, lista, element):
         left, right = 0, len(lista) - 1
-        while left <= right: 
+        while left <= right:
             middle = (left + right) // 2
             if lista[middle] == element:
                 return middle
@@ -16,7 +17,7 @@ class Search:
             else:
                 left = middle + 1
         return False
-    
+
     def sequential(self, lista, element):
         for i in range(len(lista)):
             if lista[i] == element:

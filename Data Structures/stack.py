@@ -4,19 +4,20 @@ Author: Makson Vinicio
 Stack
 '''
 
+
 class Stack:
     def __init__(self):
         self.items = []
-    
+
     def is_empty(self):
         return self.items == []
 
     def push(self, item):
         self.items.insert(0, item)
-    
+
     def pop(self):
         return self.items.pop(0)
-    
+
     def peek(self):
         return self.items[0]
 
@@ -27,19 +28,19 @@ class Stack:
         try:
             return max(self.items)
         except (TypeError):
-            print('Por favor a pilha deve conter somente numeros! ') 
-    
+            print('Por favor a pilha deve conter somente numeros! ')
+
     def min_element(self):
         i = 0
         try:
             return min(self.items)
         except (TypeError):
-            print('Por favor a pilha deve conter somente numeros! ') 
-      
+            print('Por favor a pilha deve conter somente numeros! ')
+
 
 stack = Stack()
-#stack.push('hello')
-#stack.push('true')
+# stack.push('hello')
+# stack.push('true')
 stack.push(4)
 stack.push(7)
 

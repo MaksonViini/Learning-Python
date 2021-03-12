@@ -10,9 +10,9 @@ tt.color('blue')
 sleep(0.5)
 
 cores = [
-        'red', 'magenta', 'blue', 
-        'cyan', 'green', 'white', 
-        'yellow'
+    'red', 'magenta', 'blue',
+    'cyan', 'green', 'white',
+    'yellow'
 ]
 
 for i in range(9):
